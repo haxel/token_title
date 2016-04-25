@@ -1,0 +1,7 @@
+name: Token Title
+type: module
+description: Page title display block as defined in a token.
+core: 8.x
+dependencies:
+  - block
+
